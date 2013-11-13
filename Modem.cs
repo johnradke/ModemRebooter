@@ -30,8 +30,6 @@ namespace ModemRebooter
                     Program.LogMessage("Turning receiver OFF.");
                     appliance.Off();
 
-                    appliance.
-
                     Thread.Sleep(10000);
 
                     Program.LogMessage("Turning receiver ON.");
